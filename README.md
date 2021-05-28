@@ -6,10 +6,10 @@ I'm a professional React native developer and a hobbyist Unity developer. Connec
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-RobertFOConnor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robert-o-connor-72b3416b/)](https://www.linkedin.com/in/robert-o-connor-72b3416b/)
-## ⚡ Domains:
-- No Excuses Game Jam
-- bobbertoconnor.com
-- React native development
+## ⚡ Socials:
+- [Website](bobbertoconnor.com)
+- [Instagram](https://www.instagram.com/bobbertoc/)
+- [Twitter](twitter.com/yellowbytegames)
 
 -----
 Credits: [robertfoconnor](https://github.com/robertfoconnor)
