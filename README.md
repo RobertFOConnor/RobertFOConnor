@@ -1,16 +1,15 @@
-### Hi there 👋
+![Header image](https://raw.githubusercontent.com/jayrajroshan/jayrajroshan/master/Assets/GitHub_Header.jpg)
+<!-- You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/join/celeriac-tread-jellyfish -->
+I'm a professional React native developer and a hobbyist Unity developer. Connect with me on LinkedIn.
 
-<!--
-**RobertFOConnor/RobertFOConnor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/-RobertFOConnor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robert-o-connor-72b3416b/)](https://www.linkedin.com/in/robert-o-connor-72b3416b/)
+## ⚡ Domains:
+- No Excuses Game Jam
+- bobbertoconnor.com
+- React native development
+
+-----
+Credits: [robertfoconnor](https://github.com/robertfoconnor)
