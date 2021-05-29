@@ -1,4 +1,4 @@
-![Header image](https://raw.githubusercontent.com/robertfoconnor/robertfoconnor/master/header.png)
+![Header image](https://raw.githubusercontent.com/robertfoconnor/robertfoconnor/master/header.jpg)
 <!-- You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/join/celeriac-tread-jellyfish -->
 I'm a professional React native developer and a hobbyist Unity developer. Connect with me on LinkedIn.
 
