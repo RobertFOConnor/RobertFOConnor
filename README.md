@@ -9,8 +9,9 @@ I'm a professional React native developer and a hobbyist Unity developer. Connec
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertfoconnor&layout=compact&theme=synthwave" />
 
-## 💕 Socials:
+## 💕 Links:
 - [Website](https://www.bobbertoconnor.com)
+- [My Medium Articles](https://bobbertoc.medium.com/)
 - [Instagram](https://www.instagram.com/bobbertoc/)
 - [Twitter](twitter.com/yellowbytegames)
 
