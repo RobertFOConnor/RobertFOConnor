@@ -7,7 +7,7 @@ I'm a React native developer. Connect with me on LinkedIn.
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertfoconnor&layout=compact&theme=synthwave" />
 
 ## 💕 Links:
-- [Website](https://www.bobbertoconnor.com)
+- [itch.io](https://bobbertoc.itch.io/)
 - [My Medium Articles](https://bobbertoc.medium.com/)
 - [Instagram](https://www.instagram.com/bobbertoc/)
 - [Twitter](twitter.com/yellowbytegames)
